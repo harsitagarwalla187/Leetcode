@@ -1,5 +1,5 @@
 # Daily Temperatures
-[Ques](https://leetcode.com/problems/daily-temperatures/description/)
+[Question(https://leetcode.com/problems/daily-temperatures/description/)
 
 My Solution:
 ```cpp
