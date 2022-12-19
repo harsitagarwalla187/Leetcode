@@ -1,5 +1,5 @@
 # Implement Queue using Stacks
-[Ques-Link](https://leetcode.com/problems/implement-queue-using-stacks/description/)
+[Question](https://leetcode.com/problems/implement-queue-using-stacks/description/)
 
 ### My Solution:
 ```cpp
