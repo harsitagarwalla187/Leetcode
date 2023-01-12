@@ -23,6 +23,8 @@ public:
     }
 };
 ```
+Time Complexity:  O(V)
+Space Complexity: O(V)
 
 # Iterative:
 ```cpp
@@ -47,6 +49,8 @@ public:
     }
 };
 ```
+Time Complexity:  O(V)
+Space Complexity: O(V)
 
 # Morris Traversal:
 ```cpp
@@ -80,3 +84,6 @@ public:
     }
 };
 ```
+
+Time Complexity:  O(V)
+Space Complexity: O(1)
