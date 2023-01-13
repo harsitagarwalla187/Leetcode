@@ -1,1 +1,1 @@
-### This Repo contains solution of Leetcode.
+### This Repository contains solution of Leetcode Questions.
